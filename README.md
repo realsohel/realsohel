@@ -12,9 +12,10 @@ Hey! Myself Mohd Sohel Salmani, an Indian based web designer & front‑end devel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=realsohel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsohel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Leetcode
+<img src="https://leetcode-badge-showcase.vercel.app/api? username={real_sohel}" alt="LeetCode Badges"/>
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=real_sohel_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
-[![](https://visitcount.itsvg.in/api?id=realsohel&icon=0&color=0)](https://visitcount.itsvg.in)
+---n)
 
