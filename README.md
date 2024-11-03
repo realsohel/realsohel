@@ -15,8 +15,3 @@ Hey! Myself Mohd Sohel Salmani, an Indian based web designer & front‑end devel
 # Leetcode
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=real_sohel)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=real_sohel_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----n)
-
