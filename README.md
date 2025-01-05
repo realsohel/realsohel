@@ -99,10 +99,27 @@
 <img  height="90" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"  />
 
 ### Annual Badges
-<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024.gif"  />
-<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"  />
-<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif"  />
-<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
+<div align="center">  
+  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024.gif"  />
+  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"  />
+  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif"  />
+  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
+</div>
+
+### Daily Badges
+<div align="center">  
+  <img  height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"  />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-11.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-10.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-9.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-8.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-7.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-6.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-5.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-4.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-3.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/dcc-2024-2.png" />
+</div>
 
 <img  height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
 
