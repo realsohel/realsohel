@@ -1,18 +1,18 @@
-# 👨‍💻 About Me:
+# 💻 About Me
 
-- **Entry-Level Software Developer**  
+- 🌟 **Entry-Level Software Developer**  
   Experienced in the **MERN stack** and **Java Spring Boot**.  
 
-- **Passionate Learner**  
+- 📚 **Passionate Learner**  
   Continuously exploring **new technologies and tools** to enhance productivity and improve daily life.  
 
-- **Team Player**  
+- 🤝 **Team Player**  
   Works effectively in a team environment and supports team members wherever assistance is needed.  
 
-- **Committed to Excellence**  
+- 🚀 **Committed to Excellence**  
   Dedicated to building **high-quality websites** that improve the lives of users and address their needs.  
 
-- **Versatile Developer**  
+- 🛠️ **Versatile Developer**  
   Have worked on **multiple projects** across various fields, both collaboratively and independently.  
 
 <br><br>
