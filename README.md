@@ -96,11 +96,11 @@
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=real_sohel&theme=dark&hide_border=true)
 
 ### Submission Badges
-<div align="center" style="width: 75%;">  
+<div align="center" style="width: 50%;">  
   <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"  />
 </div>
 ### Annual Badges
-<div align="center" style="width: 75%;">  
+<div align="center" style="width: 50%;">  
   <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024.gif"  />
   <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"  />
   <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif"  />
@@ -108,7 +108,7 @@
 </div>
 
 ### Daily Badges
-<div align="center" style="width: 75%;">  
+<div align="center" style="width: 50%;">  
   <img  height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"  />
   <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" />
   <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" />
