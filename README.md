@@ -99,7 +99,8 @@
 <br><br>
 
 # 🚀 Leetcode Stats:
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=real_sohel)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=real_sohel&theme=dark&hide_border=true)
+
 
 <br><br> 
 
