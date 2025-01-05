@@ -109,16 +109,16 @@
 ### Daily Badges
 <div align="center">  
   <img  height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"  />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-9.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-8.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-7.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-6.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-5.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-4.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-3.png" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-2.png" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-9.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-8.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-7.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-6.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-5.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-4.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-3.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-2.gif" />
 </div>
 
 <img  height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
