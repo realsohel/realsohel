@@ -29,7 +29,7 @@
 
 <br><br>
 
-# ![image](https://github.com/user-attachments/assets/f8aa5778-91e2-4166-a3b2-60f251a169d9) Leetcode Stats:
+# 🚀 Leetcode Stats:
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=real_sohel)
 
 <br><br> 
