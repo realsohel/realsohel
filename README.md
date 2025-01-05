@@ -98,6 +98,11 @@
 ### Submission Badges
 <img  height="90" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"  />
 
+### Annual Badges
+<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024.gif"  />
+<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"  />
+<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif"  />
+<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
 
 <img  height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
 
