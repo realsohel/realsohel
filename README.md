@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hey! Myself Mohd Sohel Salmani, an Indian based web designer & front‑end developer, passionate about building excellent websites that improves the lives of those around me. Currently studying back-end development as well.<br><br>
-
 # 💻 About Me
 
 - **Entry-Level Software Developer**  
