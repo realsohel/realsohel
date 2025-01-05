@@ -94,33 +94,34 @@
 
 # 🚀 Leetcode Stats:
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=real_sohel&theme=dark&hide_border=true)
-<div align="center" style="width: 50%; border: 1px solid white; padding: 10px;"> 
-### Submission Badges
-<div align="center" style="width: 50%;">  
-  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"  />
-</div>
-### Annual Badges
-<div align="center" style="width: 50%;">  
-  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024.gif"  />
-  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"  />
-  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif"  />
-  <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
-</div>
 
-### Daily Badges
-<div align="center" style="width: 50%;">  
-  <img  height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"  />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" />
-</div>
+<div align="center" style="width: 50%; border: 1px solid white; padding: 10px;"> 
+  ### Submission Badges
+  <div align="center" style="width: 50%;">  
+    <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"  />
+  </div>
+  ### Annual Badges
+  <div align="center" style="width: 50%;">  
+    <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024.gif"  />
+    <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"  />
+    <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif"  />
+    <img  height="80" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
+  </div>
+
+  ### Daily Badges
+  <div align="center" style="width: 50%;">  
+    <img  height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"  />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" />
+    <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" />
+  </div>
 </div>
 <br><br> 
 
