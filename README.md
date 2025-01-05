@@ -94,9 +94,9 @@
 
 # 🚀 Leetcode Stats:
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=real_sohel&theme=dark&hide_border=true)
-
+<div border="1px solid white">
 ### Submission Badges
-<img  height="90" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"  />
+<img  height="80" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"  />
 
 ### Annual Badges
 <div align="center">  
@@ -120,8 +120,7 @@
   <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" />
   <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" />
 </div>
-
-<img  height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
+</div>
 
 <br><br> 
 
