@@ -107,6 +107,7 @@
 
 ---
 <img align="right" height="150" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/FUeNgq8G6tAAAAAd/haru-yoshida-tonari-no-kaibutsu-kun.gif"  />
 
 ### Daily Badges
 | <img height="90" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" /> | <img height="90" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" /> | <img height="90" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" /> | <img height="90" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" /> |
