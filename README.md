@@ -111,14 +111,14 @@
   <img  height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif"  />
   <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" />
   <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-9.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-8.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-7.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-6.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-5.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-4.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-3.gif" />
-  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-2.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" />
+  <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" />
 </div>
 
 <img  height="100" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  />
