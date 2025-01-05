@@ -1,6 +1,23 @@
 # 💫 About Me:
 Hey! Myself Mohd Sohel Salmani, an Indian based web designer & front‑end developer, passionate about building excellent websites that improves the lives of those around me. Currently studying back-end development as well.<br><br>
 
+# 💻 About Me
+
+- **Entry-Level Software Developer**  
+  Experienced in the **MERN stack** and **Java Spring Boot**.  
+
+- **Passionate Learner**  
+  Continuously exploring **new technologies and tools** to enhance productivity and improve daily life.  
+
+- **Team Player**  
+  Works effectively in a team environment and supports team members wherever assistance is needed.  
+
+- **Committed to Excellence**  
+  Dedicated to building **high-quality websites** that improve the lives of users and address their needs.  
+
+- **Versatile Developer**  
+  Have worked on **multiple projects** across various fields, both collaboratively and independently.  
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sohail.salmani.3975) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohail.salmani.400054) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-sohel-salmani-957603226/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/real_sohel_) 
