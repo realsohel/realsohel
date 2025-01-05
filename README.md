@@ -100,8 +100,8 @@
 
 # 🚀 Leetcode Stats:
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=real_sohel&theme=dark&hide_border=true)
-!(https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
 
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)"  />
 
 <br><br> 
 
