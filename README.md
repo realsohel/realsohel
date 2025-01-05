@@ -123,6 +123,27 @@
     <img height="80" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" />
   </div>
 </div>
+
+### Submission Badges
+| Badge |
+|:-----:|
+| ![365 Badge](https://assets.leetcode.com/static_assets/marketing/365_new.gif) |
+
+---
+
+### Annual Badges
+| ![2024](https://assets.leetcode.com/static_assets/marketing/2024.gif) | ![2024-200](https://assets.leetcode.com/static_assets/marketing/2024-200.gif) | ![2024-100](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif) | ![2024-50](https://assets.leetcode.com/static_assets/marketing/2024-50.gif) |
+|:---:|:---:|:---:|:---:|
+
+---
+
+### Daily Badges
+| ![12](https://leetcode.com/static/images/badges/2024/gif/2024-12.gif) | ![11](https://leetcode.com/static/images/badges/2024/gif/2024-11.gif) | ![10](https://leetcode.com/static/images/badges/2024/gif/2024-10.gif) | ![9](https://leetcode.com/static/images/badges/2024/gif/2024-09.gif) |
+|:---:|:---:|:---:|:---:|
+| ![8](https://leetcode.com/static/images/badges/2024/gif/2024-08.gif) | ![7](https://leetcode.com/static/images/badges/2024/gif/2024-07.gif) | ![6](https://leetcode.com/static/images/badges/2024/gif/2024-06.gif) | ![5](https://leetcode.com/static/images/badges/2024/gif/2024-05.gif) |
+| ![4](https://leetcode.com/static/images/badges/2024/gif/2024-04.gif) | ![3](https://leetcode.com/static/images/badges/2024/gif/2024-03.gif) | ![2](https://leetcode.com/static/images/badges/2024/gif/2024-02.gif) |
+
+
 <br><br> 
 
 # 🌐 Socials:
